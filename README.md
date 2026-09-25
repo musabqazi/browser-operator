@@ -1,8 +1,8 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Chat](https://github.com/musabqazi/whatsapp-agent)
+**[← All systems](https://github.com/musabqazi)** · [Voice Receptionist](https://github.com/musabqazi/voice-receptionist) · [Outbound Engine](https://github.com/musabqazi/outbound-engine) · [WhatsApp Agent](https://github.com/musabqazi/whatsapp-agent)
 
-# Workup Operator — browser task agent
+# Browser Operator — browser task agent
 
 Completes repetitive tasks on websites and portals that have no API: form submissions, data
 entry, status checks, downloads, portal-to-spreadsheet syncs. Runs on a schedule or on demand,
@@ -15,7 +15,7 @@ queue, CSV export, and a public mock portal (login `demo` / `demo`). **Spec:** [
 
 ## Dashboard
 
-<img src="screenshots/01-dashboard.png" alt="Workup Operator — browser task agent dashboard" width="100%"/>
+<img src="screenshots/01-dashboard.png" alt="Browser Operator — browser task agent dashboard" width="100%"/>
 <sub>Task runs with a screenshot and an audit row for every step, and an approval gate before anything irreversible.</sub>
 
 ## The problem
@@ -46,4 +46,4 @@ portal. Nobody will ever build an API for it.
 The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
 
 ---
-<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · A <b>Workup Solutions</b> product · source private. © 2026 Musab Qazi</sub>
+<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
